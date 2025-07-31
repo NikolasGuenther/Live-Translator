@@ -1,0 +1,8 @@
+deepl
+vosk
+sounddevice
+edge_tts
+playsound
+numpy
+whisper
+
